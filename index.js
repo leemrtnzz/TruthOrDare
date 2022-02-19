@@ -5,7 +5,7 @@ const lodash = require('lodash')
 const { sample } = lodash
 // const nama = 'harlequinbot' //username bot
 
-const bot = new Telegraf('1030214810:AAGOWxLDueNqqleuKpRLth_Xcax4zzFE088')
+const bot = new Telegraf('TOKEN_BOT') //Token BOT
 // bot.command('oldschool', (ctx) => ctx.reply('Hello'))
 
 const msg = '🤖 TOD (Truth or Dare) 🤖'
